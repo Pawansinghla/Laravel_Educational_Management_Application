@@ -9,6 +9,6 @@ Step 4:- Enter This command <br>
         Now Press Enter<br>
 step 5:- Now migrate all table using command<br>
                  php artisan migrate<br>
-Now you have complete all process and visit this link<br>
+<i>Now you have complete all process and visit this link</i><br>
                 http://127.0.0.1:8000<br>
  Happy Coding :)
